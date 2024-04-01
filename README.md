@@ -1,1 +1,1 @@
-https://sorteador-numeros-seven.vercel.app/
+https://sorteador-numeros-pi.vercel.app/
